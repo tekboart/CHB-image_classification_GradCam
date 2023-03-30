@@ -60,31 +60,11 @@ This repository contains the code and data of an eponymous paper. In an endeavor
 
 
 ## Requirements
-
-<!-- Formula to create badges + text_logos:
-
-![Alt Text](https://img.shields.io/badge/<text_logo>-<label>-<label_background_color>.svg)
-
-# to add special chars of space, dash, and under score (in label):
-Double_Dashes --	    →	- Dash
-Double_Underscores __	→	_ Underscore
-Underscore _   	        →	  Space
-
--->
 ![Python](https://img.shields.io/badge/Python-%3D%3D_3.9.10-396D99.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%3E%3D_2.9.1-FF6F00.svg)
 ![Pandas](https://img.shields.io/badge/pandas-%3D%3D_1.4.4-150458.svg)
 ![Keras](https://img.shields.io/badge/Keras-%3E%3D_2.9.0-FF0000.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-%3D%3D_1.23.5-013243.svg)
-
-<!-- Formula to create badges + logos:
-
-![Alt Text](https://img.shields.io/badge/<label>-svg?style=<badge_style>&color=<label_color>&logo=<logo_name_lowercase>&label=<a_text_instead_logo>&logoColor=<logo_color>&labelColor=<logo_background_color>&logoWidth=<horizontal_space_for_logo>)
-
--->
-<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=FF1010&logo=opencv&logoColor=white&labelColor=gray)
-![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=396D99&logo=numpy&logoColor=white&labelColor=gray) -->
-
 
 - Please refer to the file `requirements.txt` for a comprehesive list of packages and their corresponding version.
 
