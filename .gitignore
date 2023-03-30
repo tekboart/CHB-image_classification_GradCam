@@ -9,6 +9,7 @@ __pycache__
 
 # the Drawio backup files
 *.bkp
+*.dtmp
 
 # Virtualenv
 .venv
