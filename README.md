@@ -147,6 +147,7 @@ For training a model from scratch, please follow the steps below:
       author={Mahdi Bahrami and Amir Albadvi},
       year={2023},
       eprint={2302.14354},
+      doi=10.48550/arXiv.2302.14354
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
