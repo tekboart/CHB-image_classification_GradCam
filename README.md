@@ -30,7 +30,7 @@
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://kaggle.com/">
+      <a href="https://www.kaggle.com/tekboart">
           <img
             src="images/logos/kaggle-gray.svg"
             width="3%"
@@ -94,7 +94,7 @@ This repository contains the code and data of an eponymous paper. In an endeavor
 ## Data
 - We have two/2 classes, namely (1) no restoration (class 0) and (2) need restoration (class 1) (See Fig [[1]](#1) ).
 - Download the dataset [here](https://paperswithcode.com/paper/deep-learning-for-identifying-iran-s-cultural).
-    >  The entire dataset will be avaible to download (in the foreseeable future)!
+  >  The entire dataset will be avaible to download (in the foreseeable future)!
 - For the detail regarding how the raw data are processed, please refer the `utils/data_augmentation.py`. (See Fig [[2]](#2) )
 
 <p align="center">
@@ -135,7 +135,7 @@ For training a model from scratch, please follow the steps below:
 
 ## Contact
 <!-- Unfortunately this repo is no longer actively maintained.  -->
-If you have any question, feel free to contact TekBoArt @tekboart.
+Should you have any questions, feel free to contact TekBoArt @tekboart.
 
 
 ## License
@@ -156,7 +156,3 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-
-
-
