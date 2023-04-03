@@ -126,10 +126,10 @@ For training a model from scratch, please follow the steps below:
       title={Deep Learning for Identifying Iran's Cultural Heritage Buildings in Need of Conservation Using Image Classification and Grad-CAM},
       author={Mahdi Bahrami and Amir Albadvi},
       year={2023},
-      eprint={2302.14354},
-      doi=10.48550/arXiv.2302.14354
+      doi={10.48550/arXiv.2302.14354},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
 }
 ```
 
