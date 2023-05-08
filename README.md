@@ -130,7 +130,6 @@ For training a model from scratch, please follow the steps below:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-}
 ```
 
 ## Contact
