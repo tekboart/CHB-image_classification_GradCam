@@ -50,7 +50,7 @@
 
 This repository contains the code and data of an eponymous paper. In an endeavor to practically demonstrate the utilities of DL in CH literature, We developed a fully fledged DL model that classifies the images in need of conservation and even more approximately localizes the defects to help the CH practitioners identify defects in a timely manner, and as a result speed of the process of CHB conservation as well as increasing its accuracy. In spite of all the limitations, we achieved very good results with a score of at least 94% for Precision, Recall, and F1-Score, which were about 4-5% more than similar works (See Table 4 in the preprint v1).
 
-- You can download the preprint version of the paper from [![arXiv](https://img.shields.io/badge/arXiv-2302.14354-b31b1b.svg)](https://arxiv.org/abs/2302.14354)
+- You can download, and cite 😉, the paper from [![DOI](https://img.shields.io/badge/10.1145/3631130-svg?style=flat&color=FAB70C&label=&logo=doi&logoColor=white&labelColor=gray)](https://doi.org/10.1145/3631130)
 
 
 <!-- add the link to final version -->
