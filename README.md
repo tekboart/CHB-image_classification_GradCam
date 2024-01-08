@@ -123,12 +123,17 @@ For training a model from scratch, please follow the steps below:
 ## Citation
 ```latex
 @article{bahrami2023deep,
-      title={Deep Learning for Identifying Iran's Cultural Heritage Buildings in Need of Conservation Using Image Classification and Grad-CAM},
-      author={Mahdi Bahrami and Amir Albadvi},
-      year={2023},
-      doi={10.48550/arXiv.2302.14354},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+author = {Bahrami, Mahdi and Albadvi, Amir},
+title = {Deep Learning for Identifying Iran’s Cultural Heritage Buildings in Need of Conservation Using Image Classification and Grad-CAM},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1556-4673},
+url = {https://doi.org/10.1145/3631130},
+doi = {10.1145/3631130},
+journal = {J. Comput. Cult. Herit.},
+month = {oct},
+keywords = {deep learning, convolutional neural networks (CNN), built cultural heritage conservation, Structural health monitoring, image processing, gradient weighted class activation mapping (Grad-CAM), transfer learning}
 }
 ```
 
